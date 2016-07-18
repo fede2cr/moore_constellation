@@ -1,5 +1,6 @@
 # moore_constellation
 A cluster of small telescopes, doing autonomous science work
+Project named to the honor of Sir Patrick Moore
 
 ## Description
 Using a collection of cheap and autonomous telescopes to do task such as
@@ -7,6 +8,7 @@ Using a collection of cheap and autonomous telescopes to do task such as
 - Variable star astrometry
 - Exoplanet confirmation
 - Moon meteorite monitoring
+- Astrophotography
 
 ## Parts of the project
 1. Autonomous mini-observatories: Consists of a motorized telescope with a camera, with a motorized dome and climate sensors
@@ -21,3 +23,5 @@ Using a collection of cheap and autonomous telescopes to do task such as
 
 ## Work being done
 - 3d part for the focuser, with mini-stepper motor and rail. I'm currently tryng with a motorized linear rail potenciometer, but later with mini-stepper with included rails
+- Webcams as well as Pi-cams are being evaluated
+- Integration with focus software
